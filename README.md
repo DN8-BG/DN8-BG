@@ -1,7 +1,10 @@
 ## Hello there 👋
 
-**A side of my story in Github!
-
+__A side of my story in Github!__
+- 🎓 I'm currently a student at the Óbuda University John von Neumann Faculty of Informatics
+- 📚 I'm currently learning C#, SQL
+- 🤖 I'm currently working with Robotic Process Automation
+- ❤ I love databases, games and horror movies
 
 
 <!--
