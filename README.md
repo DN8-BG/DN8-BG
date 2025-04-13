@@ -2,10 +2,11 @@
 
 __A side of my story in Github!__
 - 🎓 I'm currently a student at the Óbuda University John von Neumann Faculty of Informatics
-- 📚 I'm currently learning C#, SQL
+- 📚 I'm currently learning C#, SQL and Excel vba macro
 - 🤖 I'm currently working with Robotic Process Automation
-- ❤ I love databases, games and horror movies
+- 📌 I like databases, games and horror movies
 
+*Ohh, and I love to be creative and making fascinating things. I will want to learn 3D modelling, animating in the future.*
 
 <!--
 **DN8-BG/DN8-BG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
